@@ -1,5 +1,5 @@
 from random import randint
-
+##GAME OF LIFE
 DEAD = "."
 LIVE = "#"
 EDGE_CELL = "*"
